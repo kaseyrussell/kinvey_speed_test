@@ -11,12 +11,14 @@ They look like this (with actual username, password, and endpoint URLs
 replaced with dummy info):
 
 --- account_sunspritedev.json:
+```
 {
   "username": "example@username.com",
   "password": "examplePassword"
 }
-
+```
 --- endpoints.json:
+```
 {
     "endpoints": [
         "http://baas.kinvey.com/appdata/xxxx/yyy", 
@@ -28,3 +30,4 @@ replaced with dummy info):
         "red"
     ]
 } 
+```
