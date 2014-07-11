@@ -10,14 +10,14 @@ You will need to create two text files: one for holding your endpoint info
 They look like this (with actual username, password, and endpoint URLs 
 replaced with dummy info):
 
---- account_sunspritedev.json:
+account_sunspritedev.json:
 ```
 {
   "username": "example@username.com",
   "password": "examplePassword"
 }
 ```
---- endpoints.json:
+endpoints.json:
 ```
 {
     "endpoints": [
